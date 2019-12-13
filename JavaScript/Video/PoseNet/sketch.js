@@ -7,7 +7,7 @@
 // Read more here:
 //  - https://ml5js.org/
 //
-// This particular Sketch uses ml5js's PoseNet implementationfor human pose tracking.
+// This particular Sketch uses ml5js's PoseNet implementation for human pose tracking.
 //
 // Primary PoseNet library:
 //  - Read this article: "Real-time Human Pose Estimation in the Browser with TensorFlow.js"
